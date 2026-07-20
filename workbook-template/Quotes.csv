@@ -1,0 +1,7 @@
+Quote #,Customer,Site,Sq Ft,Subtotal,GST,Total,Deposit,Status,Valid Until,Margin %
+ECO-Q-DEMO-01,Sandra Kowalczyk,"8811 Silver Berry Rd, Edmonton",640,6010,300.5,6310.5,1577.63,Accepted,2026-07-29,
+ECO-Q-DEMO-02,Marcus Tran,"4415 Orchards Blvd SW, Edmonton",700,2875,143.75,3018.75,754.69,Sent,2026-07-25,
+ECO-Q-DEMO-03,Dale Petersen,"56 Ravine Cres, Sherwood Park",,450,22.5,472.5,118.13,Sent,2026-08-13,
+ECO-Q-DEMO-04,Bighorn Equipment Ltd.,"271 Industrial Way, Red Deer",380,5760,288,6048,1512,Accepted,2026-07-18,
+ECO-Q-DEMO-05,Redwater Storage Co-op,"5 Depot Rd, Redwater",3200,28560,1428,29988,7497,Accepted,2026-07-31,
+ECO-Q-DEMO-06,Beaumont Auto Group,"6120 50 St, Beaumont",1450,5640,282,5922,1480.5,Sent,2026-08-07,

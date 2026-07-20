@@ -1,0 +1,9 @@
+ID,Section,Item,Unit,On Hand,Par,Reorder At,Last Unit Cost,Last Supplier
+INV-001,Materials & Media,Crushed glass 40/70,50 lb bag,22,40,15,35,Prairie Abrasives Supply
+INV-002,Materials & Media,Garnet 80 mesh,55 lb bag,6,12,5,35.12,Prairie Abrasives Supply
+INV-003,Consumables & PPE,P100 cartridges,pair,4,10,4,14.99,Mark's Work Wearhouse
+INV-004,Consumables & PPE,Cut-resistant gloves,pair,8,8,3,21.7,
+INV-005,Equipment & General,Blast hose 50 ft,each,3,3,1,189.99,Princess Auto
+INV-006,Equipment & General,Quick couplers,each,9,8,4,20.36,Princess Auto
+INV-007,Materials & Media,Zinc primer (2-part),4 L kit,5,8,3,96.5,Cascade Coatings & Primers
+INV-008,Consumables & PPE,Blast suit (Tyvek),each,12,10,4,8.75,Northside Safety Co.

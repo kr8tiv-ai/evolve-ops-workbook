@@ -1,0 +1,6 @@
+Job,Customer,Revenue,Cost,Profit,Margin %,Verdict
+JOB-1041,Bighorn Equipment Ltd.,5760,3283,2477,43,healthy
+JOB-1044,Redwater Storage Co-op,28560,8313,20247,71,healthy
+JOB-1045,Sandra Kowalczyk,4720,1492,3228,68,healthy
+
+SCORECARD,,39040,13088,25952,66.48,

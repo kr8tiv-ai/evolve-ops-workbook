@@ -1,0 +1,5 @@
+Depth,Label,Base $/sqft,Learned $/sqft,Samples
+very-light,"Very light (surface film, paint haze)",2.5,2.5,0
+light,"Light (sealer, light coatings)",3.75,3.9,3
+medium,"Medium (epoxy, exposed aggregate, rust)",6.9,8.85,5
+heavy,"Heavy (thick coatings, membrane, corrosion)",14.5,14.5,1
