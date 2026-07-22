@@ -1,6 +1,8 @@
 # Evolve Ops Workbook + Router — the backend template
 
-**The spine of the [Evolved](https://github.com/kr8tiv-ai/evolved) system, as a template you can copy.** A 20-tab operations workbook and a tiny secret-gated Apps Script **Router** that lets the field app and the owner dashboard read and write it — without ever holding a Google credential. Everything here is synthetic and MIT; you bring your own sheet and your own secret.
+**The spine of the [Evolved](https://github.com/kr8tiv-ai/evolved) system, as a template you can copy.** A 25-tab operations workbook and a tiny secret-gated Apps Script **Router** that lets the field app and the owner dashboard read and write it — without ever holding a Google credential. Everything here is synthetic and MIT; you bring your own sheet and your own secret.
+
+> **These tabs are wired to the dashboard.** The [owner dashboard](https://github.com/kr8tiv-ai/evolve-dashboard) reads exactly this schema through its `evolved` profile (`COMPANY_PROFILE=evolved`) — all 18 of its data views (pipeline, Job P&L, money, receipts, inventory, materials, deals, safety, hazards, maintenance…) populate from these tabs out of the box, verified by the dashboard's `scripts/verify-evolved.js`.
 
 > **Part of a complete, free, open-source system for any service business** — one Google Sheet is the spine, and four surfaces share it:
 > 🧠 **MCP** ([kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved)) · ✋ **field app** ([kr8tiv-ai/evolve-field-app](https://github.com/kr8tiv-ai/evolve-field-app)) · 📊 **workbook + router** (you are here) · 📈 **dashboard** ([kr8tiv-ai/evolve-dashboard](https://github.com/kr8tiv-ai/evolve-dashboard), live at [ops.evolveecoblasting.com](https://ops.evolveecoblasting.com)). Full stand-up guide: [evolved/docs/STAND-UP-YOUR-OWN.md](https://github.com/kr8tiv-ai/evolved/blob/main/docs/STAND-UP-YOUR-OWN.md).
@@ -12,7 +14,7 @@
 1. **Make your workbook.** Create a new Google Sheet. For each CSV in
    [`workbook-template/`](workbook-template/), **File → Import → Insert new
    sheet(s)** so each becomes a tab. (The data is synthetic sample content —
-   clear it and keep the headers, or start from it and edit.) This 20-tab
+   clear it and keep the headers, or start from it and edit.) This 25-tab
    structure is exactly what the MCP, field app, and dashboard expect.
 2. **Add the Router.** In your sheet: **Extensions → Apps Script**, paste
    [`router.gs`](router.gs).
@@ -51,11 +53,12 @@ Both are real footguns a naive router hits:
   at once, with no copy of the new value anywhere. You set it; the template
   verifies it.
 
-## The 20 tabs
+## The 25 tabs
 
 Start Here · Quotes · Customers · Leads · Dispatch · Expenses · Invoices ·
 Inventory · Suppliers · Crew · Time Log · Job Photos · Field Notes ·
-Safety (FLHA) · Reviews · Action Items · To-Do · Rate Table · Job P&L · Record Log.
+Safety (FLHA) · Reviews · Action Items · To-Do · Rate Table · Job P&L ·
+Vendors · Price Log · Price Watch · Hazard Reports · Maintenance · Record Log.
 
 ## Boundary
 

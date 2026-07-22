@@ -1,1 +1,4 @@
 ID,Rule,Severity,Message,Raised,Resolved
+AI-001,invoice-overdue,urgent,"Invoice ECO-INV-9004 (Redwater Storage, $22,491) is overdue — send a reminder today.",2026-07-22T21:02:36.338Z,open
+AI-002,job-uninvoiced,urgent,Job JOB-1041 (Bighorn trailers) is complete but has not been invoiced — money on the table.,2026-07-21T21:02:36.338Z,open
+AI-003,deposit-unscheduled,warn,JOB-1042 (Kowalczyk driveway) has a deposit in but no scheduled date — book it.,2026-07-20T21:02:36.338Z,open

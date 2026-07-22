@@ -1,6 +1,6 @@
 ID,Task,Category,Priority,Status,Due
-TODO-001,Fit-test new P100 cartridges before Thursday job,Safety,high,Open,2026-07-22
+TODO-001,Fit-test new P100 cartridges before Thursday job,Safety,high,Open,2026-07-24
 TODO-002,Call Foothills about compressor service interval,Equipment,normal,Open,
-TODO-003,Compressor 500-hour service due (currently 512 hrs) — book Foothills,Maintenance,high,Open,2026-07-24
-TODO-004,"Replace blast nozzle #2 — venturi wear past spec, throughput dropping",Maintenance,normal,Open,2026-07-27
-TODO-005,"Invoice ECO-INV-9004 (Redwater, $22,491) overdue 4 days — send reminder",Money,high,Open,2026-07-21
+TODO-003,Compressor 500-hour service due (currently 512 hrs) — book Foothills,Maintenance,high,Open,2026-07-26
+TODO-004,"Replace blast nozzle #2 — venturi wear past spec, throughput dropping",Maintenance,normal,Open,2026-07-29
+TODO-005,"Invoice ECO-INV-9004 (Redwater, $22,491) overdue 4 days — send reminder",Money,high,Open,2026-07-23

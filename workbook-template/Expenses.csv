@@ -1,7 +1,7 @@
 Receipt,Date,Vendor,Category,Before Tax,GST,Total,Job,OCR Model,Warnings
-RCPT-2001,2026-07-11,Prairie Abrasives Supply,Abrasive media,1190.48,59.52,1250,JOB-1041,haiku,
-RCPT-2002,2026-07-14,Petro-Canada,Fuel,156.19,7.81,164,JOB-1041,haiku,
-RCPT-2003,2026-07-16,Princess Auto,Equipment,271.43,13.57,285,,sonnet,Escalated from Haiku (confidence 0.62) — faded thermal paper.
-RCPT-2004,2026-07-05,Mark's Work Wearhouse,Safety gear,133.33,6.67,140,,haiku,
-RCPT-2005,2026-07-09,Prairie Abrasives Supply,Abrasive media,4742.86,237.14,4980,JOB-1044,haiku,
-RCPT-2006,2026-07-10,Petro-Canada,Fuel,565.71,28.29,594,JOB-1044,haiku,
+RCPT-2001,2026-07-13,Prairie Abrasives Supply,Abrasive media,1190.48,59.52,1250,JOB-1041,haiku,
+RCPT-2002,2026-07-16,Petro-Canada,Fuel,156.19,7.81,164,JOB-1041,haiku,
+RCPT-2003,2026-07-18,Princess Auto,Equipment,271.43,13.57,285,,sonnet,Escalated from Haiku (confidence 0.62) — faded thermal paper.
+RCPT-2004,2026-07-07,Mark's Work Wearhouse,Safety gear,133.33,6.67,140,,haiku,
+RCPT-2005,2026-07-11,Prairie Abrasives Supply,Abrasive media,4742.86,237.14,4980,JOB-1044,haiku,
+RCPT-2006,2026-07-12,Petro-Canada,Fuel,565.71,28.29,594,JOB-1044,haiku,
